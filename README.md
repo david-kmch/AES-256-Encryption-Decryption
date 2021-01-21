@@ -7,8 +7,4 @@ In order to use this, one have to compile the botan library and include into the
 https://github.com/randombit/botan
 
 Example output using the default key and iv inside the source:
-
-Encrypted String: N5VhEMeD5N4ioFRtEO836mkKA6d18vLF0u1SJtib6mt+pxWff3J5gWMsVtWmGlN13NONMAguBQ+E7WudD/F1MWEwOQdo1rJjcuC8j/ZZkooTdA==
-
-
-Decrypted String: this string will be encrypted with aes-256 and encoded with base64
+![image](https://user-images.githubusercontent.com/74858281/105364889-06b3ac00-5c41-11eb-96c6-c535213f2a14.png)
