@@ -11,5 +11,4 @@ int main()
 	std::string Decrypted = DecryptString(Encrypted, key, iv);
 	std::cout << "Encrypted String: " << Encrypted << std::endl;
 	std::cout << "Decrypted String: " << Decrypted << std::endl;
-
 }
